@@ -13,17 +13,5 @@ Professora Silvana Rosseto
 
 
 
-nomear o arquivo com as entradas como "tarefas.txt", ambos na mesma pasta
-
-formato esperado:
-
-1a linha = numero de tarefas
-
-2a linha = tempso de ingresso
-
-3a linha = duracoes
-
-4a linha = prioridades
-
-todos separados por espaços em branco " "
+instruções especificas em cada arquivo
 
